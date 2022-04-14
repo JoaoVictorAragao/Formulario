@@ -48,7 +48,7 @@ public class UserDAO {
          
     } 
     
-    public List<User> Relatório(){
+  /*  public List<User> Relatório(){
     	List<User> Users = new ArrayList<User>();
     	try {
     		Connection connection = new ConnectionFactory().getConnection();
@@ -83,6 +83,6 @@ public class UserDAO {
     	}
     	
     	return Users;
-    }
+    }*/
     
 }

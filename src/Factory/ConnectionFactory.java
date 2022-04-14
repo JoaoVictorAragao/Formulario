@@ -15,6 +15,7 @@ import java.sql.SQLException;
 public class ConnectionFactory {
      public Connection getConnection() {
 		 try {
+			//Subistitua o caminho pelo caminho do seu banco de dados, e as informações de login e senha do banco também.
 			return DriverManager.getConnection("jdbc:mysql://localhost:3306/forms?useTimezone=true&serverTimezone=UTC","root","");
 		 }         
 		 catch(SQLException excecao) {
