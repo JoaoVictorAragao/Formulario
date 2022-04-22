@@ -11,7 +11,17 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/MySQL/Connector J 8.0/mysql-connector-java-8.0.19.jar">
+	<classpathentry kind="lib" path="F:/Downloads/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Downloads/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Downloads/mysql-socket-factory-1.5.0-jar-with-dependencies.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
@@ -22,5 +32,6 @@
 	<classpathentry kind="lib" path="F:/Downloads/jgoodies-common-1_8_1/jgoodies-common-1.8.1/jgoodies-common-1.8.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="F:/Downloads/jgoodies-common-1_8_1/jgoodies-common-1.8.1/jgoodies-common-1.8.1-sources.jar"/>
 	<classpathentry kind="lib" path="F:/Downloads/jgoodies-common-1_8_1/jgoodies-common-1.8.1/jgoodies-common-1.8.1-tests.jar"/>
+	<classpathentry kind="lib" path="F:/Downloads/mysql-connector-java-8.0.25/mysql-connector-java-8.0.25/mysql-connector-java-8.0.25.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
